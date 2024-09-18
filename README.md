@@ -1,5 +1,7 @@
-# World_Population_Dashboard_Using_Dash-
-Introduction to World Population Data Analysis
+# Data_Analysis_Project
+
+# Introduction to World Population Data Analysis
+
 excited to share a comprehensive dataset that provides insights into the world’s population trends over the decades. This dataset includes population figures for various countries from 1970 to 2023, along with key metrics such as growth rates, population density, and geographical areas.
 
 This dataset is a valuable resource for researchers, policymakers, and anyone interested in understanding the dynamics of global population trends. Join me in exploring these insights and contributing to discussions on future implications!
